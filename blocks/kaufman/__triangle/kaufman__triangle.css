@@ -1,0 +1,32 @@
+.kaufman__triangle {
+  margin-top: 0;
+  margin-bottom: 0;
+  background-image: url(../../../images/kaufman-triangle.svg);
+  background-size: contain;
+  position: absolute;
+  width: 877px;
+  height: 877px;
+  background-repeat: no-repeat;
+  right: -210px;
+  top: 0;
+  -webkit-animation-name: rotation;
+  -webkit-animation-duration: 20s;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-timing-function: linear;
+  -moz-animation-name: rotation;
+  -moz-animation-duration: 20s;
+  -moz-animation-iteration-count: infinite;
+  -moz-animation-timing-function: linear;
+  -o-animation-name: rotation;
+  -o-animation-duration: 20s;
+  -o-animation-iteration-count: infinite;
+  -o-animation-timing-function: linear;
+  -ms-animation-name: rotation;
+  -ms-animation-duration: 20s;
+  -ms-animation-iteration-count: infinite;
+  -ms-animation-timing-function: linear;
+  animation-name: rotation;
+  animation-duration: 20s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}

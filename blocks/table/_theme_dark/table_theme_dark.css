@@ -1,0 +1,13 @@
+.table_theme_dark {
+    margin-top: 0;
+    margin-bottom: 90px;
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-between;
+    z-index: 1;
+  }
